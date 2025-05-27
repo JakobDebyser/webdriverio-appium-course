@@ -10,7 +10,7 @@
     "@wdio/mocha-framework": "^9.4.4",
     "@wdio/spec-reporter": "^9.4.4",
     "appium": "^2.14.1",
-    "appium-uiautomator2-driver": "^3.9.5",
+    "appium-uiautomator2-driver": "^3.9.7",
     "eslint": "^9.17.0",
     "eslint-plugin-wdio": "^9.4.4",
     "expect-webdriverio": "5.0.5"
